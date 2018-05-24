@@ -1,0 +1,3 @@
+src/UriIp4Base.lo: src/UriIp4Base.c src/UriIp4Base.h
+
+src/UriIp4Base.h:
